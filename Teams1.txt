@@ -1,0 +1,31 @@
+Name	City	Points	Rebounds	Assists	Blocks	Steals
+Raptors	Toronto	114.4	45.2	25.4	5.3	8.3
+76ers	Philadelphia	115.2	47.8	26.9	5.3	7.4
+Celtics	Boston	112.4	44.5	26.3	5.3	8.6
+Nets	Brooklyn	112.3	46.6	23.8	4.1	6.6
+Knicks	New York	104.6	44.7	20.1	5.1	6.8
+Bucks	Milwaukee	118.1	49.7	26.0	5.9	7.5
+Pacers	Indiana	108.0	43.0	26.0	4.9	8.7
+Pistons	Detroit	107.0	45.0	22.5	4.0	6.9
+Bulls	Chicago	104.9	42.9	21.9	4.3	7.4
+Cavaliers	Cleveland	104.5	42.7	20.7	2.4	6.5
+Magic	Orlando	107.3	45.4	25.5	5.4	6.6
+Heat	Miami	105.7	46.3	24.3	5.5	7.6
+Hornet	Charlotte	110.7	43.8	23.2	4.9	7.2
+Wizards	Washington	114.0	42.4	26.3	4.6	8.3
+Hawks	Atlanta	113.3	46.1	25.8	5.1	8.2
+Nuggets	Denver	110.7	46.4	27.4	4.4	7.7
+Trail Blazers	Portland	114.7	48.0	23.0	5.0	6.7
+Jazz	Utah	111.7	46.4	26.0	5.9	8.1
+Thunder	Oklahoma City	114.5	48.1	23.4	5.2	9.3
+Timberwolves	Minnesota	112.5	44.8	24.6	5.0	8.3
+Warriors	Golden State	117.7	46.2	29.4	6.4	7.6
+Clippers	Los Angeles	115.1	45.5	24.0	4.7	6.8
+Kings	Sacramento	114.2	45.4	25.4	4.4	8.3
+Lakers	Los Angeles	111.8	46.6	25.6	5.4	7.5
+Suns	Phoenix	107.5	40.4	23.9	5.1	9.0
+Rockets	Houston	113.9	42.1	21.2	4.9	8.5
+Spurs	San Antonio	111.7	44.7	24.5	4.7	6.1
+Mavericks	Dallas	108.9	45.3	23.4	4.3	6.5
+Pelicans	New Orleans	115.4	47.3	27.0	5.4	7.4
+Grizzlies	Memphis	103.5	41.8	23.9	5.5	8.3
