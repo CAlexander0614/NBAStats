@@ -1,10 +1,3 @@
-//
-//  Athlete.cpp
-//  Flex_Project_Alexander_Chris
-//
-//  Created by Chris Alexander on 3/30/19.
-//  Copyright © 2019 Chris Alexander. All rights reserved.
-//
 
 #include <stdio.h>
 #include "Athlete.h"
